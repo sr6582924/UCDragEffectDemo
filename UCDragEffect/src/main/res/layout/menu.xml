@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:layout_margin="20dp"
+            android:layout_alignParentLeft="true"
+            android:textSize="30sp"
+            android:id="@+id/textView3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="Large Text"
+            android:layout_margin="20dp"
+            android:textSize="30sp"
+            android:id="@+id/textView4" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:layout_margin="20dp"
+            android:layout_alignParentLeft="true"
+            android:textSize="30sp"
+            android:id="@+id/textView3222" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="Large Text"
+            android:layout_margin="20dp"
+            android:textSize="30sp"
+            android:id="@+id/textView4222" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:layout_margin="20dp"
+            android:layout_alignParentLeft="true"
+            android:textSize="30sp"
+            android:id="@+id/textView111" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="Large Text"
+            android:layout_margin="20dp"
+            android:textSize="30sp"
+            android:id="@+id/textView2222" />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Num1"
+            android:layout_margin="20dp"
+            android:textSize="20sp"
+            android:id="@+id/textView1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Num2"
+            android:layout_margin="20dp"
+            android:textSize="20sp"
+            android:id="@+id/textView7" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Num3"
+            android:layout_margin="20dp"
+            android:textSize="20sp"
+            android:id="@+id/textView8" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Num4"
+            android:layout_margin="20dp"
+            android:textSize="20sp"
+            android:id="@+id/textView6" />
+
+    </LinearLayout>
+
+</LinearLayout>
